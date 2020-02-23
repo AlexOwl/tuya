@@ -8,8 +8,8 @@ import json
 from bitstring import BitArray
 import binascii
 
-from tuya import aescipher
-from tuya.helper import *
+from tradetuya import aescipher
+from tradetuya.helper import *
 
 UDP = 0
 AP_CONFIG = 1
